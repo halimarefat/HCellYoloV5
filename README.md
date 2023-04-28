@@ -3,4 +3,4 @@
 </p>
 
 # HCellYoloV5
-This repository is for Human Cell Detection using Yolo version 5&reg;.
+This repository is for Human Cell Detection using Yolo version 5.
